@@ -22,3 +22,4 @@ Functions:
 5. Update shopping cart information (return to 0) and product stocks in MongoDB with ‘Check Out’ button in shopping cart dialog window   
 6. Show AJAX success or error status message in alert window    
 
+
