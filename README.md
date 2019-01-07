@@ -13,7 +13,8 @@ http://localhost:3000/ in broswer to visit bookstore front-page
 Structures:   
 Built Front-end page with pure Javascript, HTML and CSS (public folder)  
 Built Back-end server with Node.js(Express.js) and MongoDB (index.js, StoreDB.js, initdb.mongo)  
-Functions:1. Choose shown products with left catergory menu bar    
+Functions:
+1. Choose shown products with left catergory menu bar    
 2. Limit price range with ‘Min Price’ and ‘Max Price’ box   
 3. Show price, ‘Add to Chart’ and ‘Remove from Chart’ button (only shown when the products in the chart) when mouse hover the product images    
 4. Show current shopping cart products and also could add and remove products with button ‘show cart’      
