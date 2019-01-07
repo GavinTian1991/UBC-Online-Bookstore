@@ -20,6 +20,9 @@ Functions:
 3. Show price, ‘Add to Chart’ and ‘Remove from Chart’ button (only shown when the products in the chart) when mouse hover the product images    
 4. Show current shopping cart products and also could add and remove products with button ‘show cart’      
 5. Update shopping cart information (return to 0) and product stocks in MongoDB with ‘Check Out’ button in shopping cart dialog window   
-6. Show AJAX success or error status message in alert window    
+6. Show AJAX success or error status message in alert window      
+
+
+![image](https://github.com/GavinTian1991/UBC-Online-Bookstore/tree/master/public/images/bookstorefrontpage.JPG)
 
 
