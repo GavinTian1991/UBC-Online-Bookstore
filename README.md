@@ -23,6 +23,6 @@ Functions:
 6. Show AJAX success or error status message in alert window      
 
 
-![image](https://github.com/GavinTian1991/UBC-Online-Bookstore/tree/master/public/images/bookstorefrontpage.JPG)
+![image](https://github.com/GavinTian1991/UBC-Online-Bookstore/raw/master/public/images/bookstorefrontpage.JPG)
 
 
