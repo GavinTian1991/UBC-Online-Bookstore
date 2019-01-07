@@ -14,7 +14,7 @@ Structures:
 Built Front-end page with pure Javascript, HTML and CSS (public folder)  
 Built Back-end server with Node.js(Express.js) and MongoDB (index.js, StoreDB.js, initdb.mongo)  
 
-Functions:  
+Functions:
 1. Choose shown products with left catergory menu bar    
 2. Limit price range with ‘Min Price’ and ‘Max Price’ box   
 3. Show price, ‘Add to Chart’ and ‘Remove from Chart’ button (only shown when the products in the chart) when mouse hover the product images    
